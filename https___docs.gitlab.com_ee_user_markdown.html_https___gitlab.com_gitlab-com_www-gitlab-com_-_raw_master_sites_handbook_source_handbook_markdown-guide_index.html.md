@@ -1,0 +1,24 @@
+- [x] Completed task
+- [ ] Incomplete task
+  - [ ] Sub-task 1
+  - [x] Sub-task 2
+  - [ ] Sub-task 3
+
+1. [x] Completed task
+1. [ ] Incomplete task
+   1. [ ] Sub-task 1
+   1. [x] Sub-task 2
+
+```md
+- list one - item 1
+- list one - item 2
+   - sub item 1
+   - sub item 2
+- list one - item 3
+^
+- list two - item A
+- list two - item B
+^
+- list three - item _i_
+- list three - item _ii_
+```

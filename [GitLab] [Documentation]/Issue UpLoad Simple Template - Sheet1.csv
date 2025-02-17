@@ -1,0 +1,41 @@
+,,Quick Actions for ALL Issues,,,,,,,,,
+,If you want some common quick action for ALL your issues - add it here:,/label ~sm-team,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+ADD anything you want in the prefix to your issue titles here,DRAFT/EDIT YOUR ISSUES HERE,,THESE TWO COLUMNS ARE USED TO IMPORT ISSUES,,"Add any specific quick actions for your issues here.   Labels like ""Team"" or Issue Type.   Or effort, size, epics, etc",,,,,,
+,,,,,,,,,,,
+Title Prefix,Raw Title,Raw Description,Title,Description,Team Label,Type,Effort,Size,Epic,Milestone,Iteration
+Prefix,Issue Title,"What is the issue and task requred.
+
+* [ ]  A checkbox.
+* [ ]  Another Check Box ",Prefix Issue Title,"What is the issue and task requred.
+
+* [ ]  A checkbox.
+* [ ]  Another Check Box 
+
+/label ~sm-team
+/label ~pMm 
+/label ~pmm::Messaging
+/estimate 1d 
+/weight 1 
+/epic &709  
+/milestone %sm_Dublin  
+/iteration",/label ~pMm,/label ~pmm::Messaging,/estimate 1d,/weight 1,/epic &709 ,/milestone %sm_Dublin ,/iteration
+,Another Issue,"What is the issue and task requred.
+
+* [ ]  A checkbox.
+* [ ]  Another Check Box 
+", Another Issue,"What is the issue and task requred.
+
+* [ ]  A checkbox.
+* [ ]  Another Check Box 
+
+
+/label ~sm-team
+/label ~mrnci 
+
+/estimate 1w 
+/weight 1
+ 
+/epic ",/label ~mrnci,,/estimate 1w,"/weight 1
+",/epic ,,
