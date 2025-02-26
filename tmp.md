@@ -29,3 +29,7 @@
 [https://gitlab.com/gitlab-org/gitlab/-/blob/14-0-stable-ee/doc/development/documentation/structure.md](https://gitlab.com/gitlab-org/gitlab/-/blob/14-0-stable-ee/doc/development/documentation/structure.md)
 
 [https://raw.githubusercontent.com/kefranabg/readme-md-generator/refs/heads/master/templates/default.md](https://raw.githubusercontent.com/kefranabg/readme-md-generator/refs/heads/master/templates/default.md)
+
+#### Meta(-)
+
+	+ `niekedy	` ?
